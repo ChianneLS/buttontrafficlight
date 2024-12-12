@@ -9,5 +9,5 @@ resetLights()
 basic.pause(5000)
 basic.clearScreen()
 basic.forever(function () {
-	
+    basic.showIcon(IconNames.Duck)
 })
